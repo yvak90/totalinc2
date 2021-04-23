@@ -5,6 +5,9 @@ Scripting assignments
 I have written this using python. I have imported json library and parsed it to get the desired output. I have named this file state_wise_list.py 
 https://github.com/yvak90/totalinc2/blob/main/pyscripts/state_wise_list.py
 
+![state_list](https://user-images.githubusercontent.com/58933081/115891019-3b6b1580-a473-11eb-87f1-65f6ad365dff.jpg)
+
+
 
 **2. Script to get all AWS EC2 instances in a region and**
 I have written this script using python sdk for AWS BOTO3. I have imported boto3 library to get ec2 instances list and parsed it to get the desired output and named this file as ec2_count.py
